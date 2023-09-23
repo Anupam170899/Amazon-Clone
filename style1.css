@@ -1,0 +1,174 @@
+/* *{
+    practice2-question2
+    font-family: 'Times New Roman';
+}
+#box{
+    background-color: blue;
+} */
+/* div{
+    background-color: blue;
+} */
+/* .heading{
+    color: red;
+} */
+/* h1,h2,h3{
+    color: red;
+}
+button{
+    background-color: green;
+}
+#practice2{
+    text-align: center;
+    text-transform: capitalize;
+}
+#outer{
+    font-size: 25px;
+}
+#inner{
+    font-size: 10px;
+} */
+/* div{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+} */
+/* *{
+    padding: 0;
+    margin: 0;
+}
+#Navbar{
+    height: 60px;
+    background-color:#0f1111;
+    color: white;
+}
+button{
+    background-color: #f08804;
+}
+#logo{
+    margin-left: 2px;
+    color: #f08804;
+    font-size: 25px;
+}
+a{
+    margin-left: 200px;
+    text-decoration: none;
+    color: white;
+}
+.contentBox{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+}
+#content{
+    height: 600px;
+}
+footer{
+    background-color: #0f1111;
+    color: white;
+    text-align: center;
+} */
+/* .fa-solid{
+    display: none;
+}
+@media (max-width : 400px){
+    a{
+        display: none;
+    }
+    input{
+        display: none;
+    }
+    button{
+        display: none;
+    }
+    .fa-solid {
+        display: block;
+    }
+} */
+
+/* div{
+    position: fixed;
+    right: 0;
+    height: 110px;
+    width: 110px;
+    background-image: url("nature_image.jpg");
+    background-size: cover;
+} */
+
+/* Practice set - 6 */
+
+/* .navbar{
+    background-color: pink;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+li{
+    list-style-type: none;
+    display: inline;
+}
+.outer{
+    height: 400px;
+    width: 400px;
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+}
+.inner{
+    height: 100px;
+    width: 100px;
+    background-color: darkorchid;
+} */
+
+/* Practice set - 7 */
+/* div{
+    height: 200px;
+    width: 200px;
+    background-color: chocolate;
+}
+@media (max-width: 300px){
+    div{
+        background-color: green;
+    }
+}
+@media (min-width : 300px) and (max-width : 400px) {
+    div{
+        background-color: pink;
+    }
+}
+@media (min-width : 400px) and (max-width : 600px) {
+    div{
+        background-color: red;
+    }
+}
+@media (min-width : 600px) {
+    div{
+        background-color: blue;
+    }
+} */
+
+
+/* Practice set - 8 */
+
+.loader{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 20px solid #ffe66d;
+    border-top: 20px solid #4ecdc4;
+    animation: spinAnimate 1s ease-in-out 0s infinite normal;
+}
+@keyframes spinAnimate {
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg);
+    }
+}
